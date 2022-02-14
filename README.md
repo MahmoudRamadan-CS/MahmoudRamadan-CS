@@ -9,3 +9,9 @@
   <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
 
 I'm a Computer Science who is passionate about creating technology to elevate people and help new developers to find the right path. Some technologies I enjoy working with include develop apps Flutter.
+
+
+
+
+
+- 🔭 I'm a software developer in Amman,Jordan
